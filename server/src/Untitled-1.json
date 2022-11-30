@@ -1,0 +1,1 @@
+[{"stmt":"SELECT * FROM point_items;","header":["id","point_id","item_id"],"rows":[["1","2","1"],["2","2","2"],["3","2","6"]]}]
